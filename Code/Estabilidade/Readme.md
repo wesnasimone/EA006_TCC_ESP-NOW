@@ -4,3 +4,5 @@
 - [Método 2](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Code/Estabilidade/Metodo_2): Utiliza uma flag de confirmação do próprio mestre para sinalizar que um envio foi feito e um verificador para garantir que o próximo envio só seja feito se o pacote atual é igual ou maior que o pacote anterior mais um;
 - [Método 3](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Code/Estabilidade/Metodo_3): Utiliza o conceito de handshake, de modo que o escravo só envia o próximo pacote ao receber uma confirmação do escravo de que um pacote foi recebido.
 - [Método 4](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Code/Estabilidade/Metodo_4): Utiliza o conceito de handshake, de modo que o escravo só envia o próximo pacote ao receber uma confirmação do escravo de que um pacote foi recebido e do conteúdo recebido. Se o conteúdo não corresponder ao valor esperado pelo escravo o mestre é avisado e uma nova transmissão com o valor esperado é feita.
+
+A estabilidade do envio/recebimento dos pacotes é feita calculando as perdas, inversão da ordem de envio e conteúdo do pacote.
