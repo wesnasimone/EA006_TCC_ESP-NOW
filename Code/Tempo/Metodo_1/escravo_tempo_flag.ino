@@ -1,7 +1,7 @@
 /*#######################################################
 #							                                          #
 #	                  Escravo - ESP-NOW		                #
-#							     Mede Tempo - Método 1                #
+#					Mede Tempo - Método 1                #
 #	     	                                                #
 #	       Wesna Simone Bulla de Araujo - RA:225843	      #
 #							                                          #
