@@ -1,9 +1,9 @@
 /********************************************************
 *							                                          *
-*	                  Escravo - ESP-NOW		                *
-*							 Verifica Estabilidade - Método 1         *
+*	 Escravo - ESP-NOW		                *
+*	Verifica Estabilidade - Método 1         *
 *	     	                                                *
-*	       Wesna Simone Bulla de Araujo - RA:225843	      *
+*	Wesna Simone Bulla de Araujo - RA:225843	      *
 *							                                          *
 *********************************************************
 */
