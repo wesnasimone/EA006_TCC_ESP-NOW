@@ -18,6 +18,7 @@ Esse repositório foi organizado em três pastas:
 - [Code](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Code): contém todos os códigos desenvolvidos durante os experimentos. Aqui é possível entender melhor algumas funções do protocolo ESP-NOW, bem como o modo para se alterar a taxa de amostragem padrão do protocolo para valores maiores (algo pouco explorado e documentado);
 - [Dados](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Dados): contém os resultados obtidos através da execução de cada código construido, tanto em relação as taxas de transmissão, quanto em relação as perdas durante os envios de pacotes.
 - [Plotes](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Plotes): contém os códigos em python utilizados para plotar os gráficos dos resultados.
+- [Diagramas](https://github.com/wesnasimone/EA006_TCC_ESP-NOW/tree/main/Diagramas): contém os esquemáticos de funcionamento dos códigos para cada metodologia adotada.
 
 Além disso, é importante mencionar que o desenvolvimento do projeto foi feito por meio da IDE do Arduino versão 2.0.3 e o pacote ESP32 instalado na IDE foi a versão 1.0.6.
 
