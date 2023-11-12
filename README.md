@@ -7,11 +7,9 @@ bluetooth presente nas placas Cyton desenvolvidas pela OpenBCI pelo protocolo ES
 NOW de modo a garantir taxas de amostragens maiores e compatíveis com o conversor
 analógico digital ADS1299, que é responsável pela coleta dos sinais de eletroencefalografia.
 Tal substituição pode ser vantajosa, pois pode impactar positivamente no desempenho de
-BCIs. Através de experimentos considerando sinalizações de envio e recebimento de paco-
-tes, endereços com e sem broadcast e analises de perdas de pacotes durante a transmissão,
+BCIs. Através de experimentos considerando sinalizações de envio e recebimento de pacotes, endereços com e sem broadcast e analises de perdas de pacotes durante a transmissão,
 foi possível observar que o protocolo atinge valores superiores a interface bluetooth tendo
-poucas perdas no modo sem broadcast. No entanto, as transmissões são bastante instá-
-veis, embora ocorram com pouca frequência, o que pode levar a substituição da interface
+poucas perdas no modo sem broadcast. No entanto, as transmissões são bastante instá-veis, embora ocorram com pouca frequência, o que pode levar a substituição da interface
 bluetooth não ser tão vantajosa.
 
 Esse repositório foi organizado em três pastas:
